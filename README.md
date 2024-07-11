@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi 👋, I'm Chamudi      <br>A passionate IT Undergraduate from Sri Lanka<br>I've worked as a Software Engineer Intern at Q2 Solutions and have experience as a full-stack developer.<br> 🔭 I’m currently studying on University of Moratuwa<br>  🌱 I’m currently learning ML and AI<br>  💬 Ask me about React and .net<br>  📫 How to reach me chanukijayasinghe99@gmail.com<br>  ⚡ Fun fact IT Enthusiast
+ Hi 👋, I'm Chamudi      <br>A passionate IT Undergraduate from Sri Lanka<br>I've worked as a Software Engineer Intern at Q2 Solutions and have experience as a full-stack developer.<br> <br>🔭 I’m currently studying on University of Moratuwa<br>  🌱 I’m currently learning ML and AI<br>  💬 Ask me about React and .net<br>  📫 How to reach me chanukijayasinghe99@gmail.com<br>  ⚡ Fun fact IT Enthusiast
 
 
 ## 🌐 Socials:
